@@ -1,12 +1,5 @@
 ### Hi there 👋
-## 🛠 Skills
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vercel,tailwind)](https://skillicons.dev)
-### Others
-[![My Skills](https://skillicons.dev/icons?i=solidity,ipfs,python,firebase)](https://skillicons.dev)
-### Using
-[![My Skills](https://skillicons.dev/icons?i=vscode,apple,npm,notion,github)](https://skillicons.dev)
 
 
 <!--
