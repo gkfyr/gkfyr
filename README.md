@@ -11,7 +11,9 @@
 
 ![ts](https://img.shields.io/badge/solidity-363636?logo=ethereum&logoColor=fff&style=for-the-badge)
 ![ts](https://img.shields.io/badge/Ethers.js-2535A0?logo=ethereum&logoColor=fff&style=for-the-badge)
+![ts](https://img.shields.io/badge/Viem-000000?logo=ethereum&logoColor=fff&style=for-the-badge)
 ![ts](https://img.shields.io/badge/hardhat-F7DF1E?logo=ethereum&logoColor=black&style=for-the-badge)
+![ts](https://img.shields.io/badge/Foundry-000000?logo=ethereum&logoColor=fff&style=for-the-badge)
   
 ![ts](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
